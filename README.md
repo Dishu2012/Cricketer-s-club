@@ -1,8 +1,7 @@
 # Cricketer-s-club
 A club for cricketers. 
 
-stars of cricket. 
-copy paste and go. 
+Made by Tanish R. Parikh
 
 
 
